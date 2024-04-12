@@ -1,2 +1,1 @@
-# first_rep
-it's my first work shis git hub 
+# функция которая принемает (int, str ,list , dict ) и выводит их как список 
